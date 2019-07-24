@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6598040e-f6c2-40d5-b31f-180ccb5a92db" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game/Singleton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <marker date="1554739638000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554739638000" expanded="true" signature="94:509" ph="{...}" />
+                <marker date="1554739638000" expanded="true" signature="101:188" ph="/// 单例泛型类 ... " />
+                <marker date="1554739638000" expanded="true" signature="245:507" ph="{...}" />
+                <marker date="1554739638000" expanded="true" signature="326:501" ph="{...}" />
+                <marker date="1554739638000" expanded="true" signature="352:491" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Class/SocketNetWork.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <marker date="1557287091819" expanded="false" signature="6:178" ph="..." />
+                <marker date="1557287091819" expanded="true" signature="213:1126" ph="{...}" />
+                <marker date="1557287091819" expanded="true" signature="380:1123" ph="{...}" />
+                <marker date="1557287091819" expanded="true" signature="398:1033" ph="{...}" />
+                <marker date="1557287091819" expanded="true" signature="421:733" ph="/* tcpServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp); ... */" />
+                <marker date="1557287091819" expanded="true" signature="1060:1117" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChatRoomPanel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1664">
+              <caret line="213" column="18" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
+              <folding>
+                <marker date="1557286962502" expanded="false" signature="6:342" ph="..." />
+                <marker date="1557286962502" expanded="true" signature="400:9009" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="429:543" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="447:537" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="1105:1460" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="1505:1936" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="1942:2739" ph="声音" />
+                <marker date="1557286962502" expanded="false" signature="1959:2349" ph="发送录音" />
+                <marker date="1557286962502" expanded="true" signature="2013:2068" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="2108:2333" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="2359:2723" ph="接受录音" />
+                <marker date="1557286962502" expanded="true" signature="2407:2707" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="2746:4455" ph="文字" />
+                <marker date="1557286962502" expanded="false" signature="2762:3739" ph="发送文字" />
+                <marker date="1557286962502" expanded="true" signature="2830:3723" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="2886:3462" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="2929:3452" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="3055:3238" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="3259:3438" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="3475:3717" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="3745:4439" ph="接受文字" />
+                <marker date="1557286962502" expanded="true" signature="3810:4108" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="4137:4423" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="4461:6824" ph="接受图片" />
+                <marker date="1557286962502" expanded="true" signature="4525:6808" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="4632:6073" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="4808:4859" ph="/* 从内存中再次将数据读出来并保存为jpg图片 ... */" />
+                <marker date="1557286962502" expanded="true" signature="5009:5125" ph="/* Texture2D t = new Texture2D(Img.Width, Img.Height); ... */" />
+                <marker date="1557286962502" expanded="true" signature="5442:5523" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="5655:5723" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="6093:6802" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="6831:7344" ph="计算" />
+                <marker date="1557286962502" expanded="true" signature="6903:7329" ph="{...}" />
+                <marker date="1557286962502" expanded="false" signature="7350:9006" ph="发送文件" />
+                <marker date="1557286962502" expanded="true" signature="7409:8130" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="8004:8105" ph="{...}" />
+                <marker date="1557286962502" expanded="true" signature="8191:8990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Class/MessageMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+              <folding>
+                <marker date="1557286704119" expanded="false" signature="6:185" ph="..." />
+                <marker date="1557286704119" expanded="true" signature="187:242" ph="/// 这个类负责发送消息，序列化自定义类，文字转码 ... " />
+                <marker date="1557286704119" expanded="true" signature="273:1554" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="356:405" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="483:547" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="610:873" ph="{...}" />
+                <marker date="1557286704119" expanded="false" signature="879:1316" ph="发送和接受自定义类" />
+                <marker date="1557286704119" expanded="true" signature="969:1045" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="1103:1171" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="1233:1300" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="1322:1552" ph="文字转码" />
+                <marker date="1557286704119" expanded="true" signature="1378:1434" ph="{...}" />
+                <marker date="1557286704119" expanded="true" signature="1479:1537" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Class/WavUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <marker date="1488903822000" expanded="false" signature="6:68" ph="..." />
+                <marker date="1488903822000" expanded="true" signature="70:609" ph="/// WAV utility for recording and audio playback functions in Unity. ... " />
+                <marker date="1488903822000" expanded="true" signature="634:13976" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="701:936" ph="/// Load PCM format *.wav audio file (using Unity's Application data path) and convert to AudioClip. ... " />
+                <marker date="1488903822000" expanded="true" signature="991:1470" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="1103:1379" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="1571:3548" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="1577:1698" ph="/* string riff = Encoding.ASCII.GetString (fileBytes, 0, 4); ... */" />
+                <marker date="1488903822000" expanded="true" signature="2250:2367" ph="/* int byteRate = BitConverter.ToInt32 (fileBytes, 28); ... */" />
+                <marker date="1488903822000" expanded="true" signature="2891:3397" ph="{...}" />
+                <marker date="1488903822000" expanded="false" signature="3551:6929" ph="wav file bytes to Unity AudioClip conversion methods" />
+                <marker date="1488903822000" expanded="true" signature="3720:4173" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="4097:4154" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="4283:5038" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="4770:4888" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="5148:6050" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="5737:5900" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="6160:6916" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="6648:6766" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="6988:7062" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="7197:8621" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="7347:7630" ph="/* NB: Only supports 16 bit ... */" />
+                <marker date="1488903822000" expanded="true" signature="8238:8548" ph="{...}" />
+                <marker date="1488903822000" expanded="false" signature="8624:12673" ph="write .wav file functions" />
+                <marker date="1488903822000" expanded="true" signature="8734:9378" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="9488:10757" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="10856:11814" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="11890:12411" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="12045:12149" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="12514:12660" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="12676:12868" ph="/// Calculates the bit depth of an AudioClip ... " />
+                <marker date="1488903822000" expanded="true" signature="12921:13218" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="13272:13301" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="13350:13653" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="13374:13650" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="13702:13973" ph="{...}" />
+                <marker date="1488903822000" expanded="true" signature="13722:13970" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Class/MessageType.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+              <folding>
+                <marker date="1557189416287" expanded="false" signature="6:74" ph="..." />
+                <marker date="1557189416287" expanded="true" signature="120:241" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="242:313" ph="/// 消息体 ... " />
+                <marker date="1557189416287" expanded="true" signature="360:2042" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="612:683" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="689:906" ph="/// 因为，有些序列化方式要求只能使用无参构造函数，所以，这几个静态函数是用来构造的 ... " />
+                <marker date="1557189416287" expanded="true" signature="981:1083" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="1162:1278" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="1356:1454" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="1532:1646" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="1722:1815" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="1909:2035" ph="{...}" />
+                <marker date="1557189416287" expanded="true" signature="2045:4338" ph="/* [System.Serializable] ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatRoomPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/MessageType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/WavUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/MessageMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Class/SocketNetWork.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChatRoomPanel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6598040e-f6c2-40d5-b31f-180ccb5a92db" name="Default Changelist" comment="" />
+      <created>1556433803020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556433803020</updated>
+      <workItem from="1556433817915" duration="498000" />
+      <workItem from="1556868574372" duration="1247000" />
+      <workItem from="1557190144666" duration="1180000" />
+      <workItem from="1557288161210" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3004000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.120469086" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Game/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1554739638000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554739638000" expanded="true" signature="94:509" ph="{...}" />
+            <marker date="1554739638000" expanded="true" signature="101:188" ph="/// 单例泛型类 ... " />
+            <marker date="1554739638000" expanded="true" signature="245:507" ph="{...}" />
+            <marker date="1554739638000" expanded="true" signature="326:501" ph="{...}" />
+            <marker date="1554739638000" expanded="true" signature="352:491" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChatRoomPanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="213" column="18" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
+          <folding>
+            <marker date="1557286962502" expanded="false" signature="6:342" ph="..." />
+            <marker date="1557286962502" expanded="true" signature="400:9009" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="429:543" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="447:537" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="1105:1460" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="1505:1936" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="1942:2739" ph="声音" />
+            <marker date="1557286962502" expanded="false" signature="1959:2349" ph="发送录音" />
+            <marker date="1557286962502" expanded="true" signature="2013:2068" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="2108:2333" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="2359:2723" ph="接受录音" />
+            <marker date="1557286962502" expanded="true" signature="2407:2707" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="2746:4455" ph="文字" />
+            <marker date="1557286962502" expanded="false" signature="2762:3739" ph="发送文字" />
+            <marker date="1557286962502" expanded="true" signature="2830:3723" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="2886:3462" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="2929:3452" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="3055:3238" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="3259:3438" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="3475:3717" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="3745:4439" ph="接受文字" />
+            <marker date="1557286962502" expanded="true" signature="3810:4108" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="4137:4423" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="4461:6824" ph="接受图片" />
+            <marker date="1557286962502" expanded="true" signature="4525:6808" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="4632:6073" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="4808:4859" ph="/* 从内存中再次将数据读出来并保存为jpg图片 ... */" />
+            <marker date="1557286962502" expanded="true" signature="5009:5125" ph="/* Texture2D t = new Texture2D(Img.Width, Img.Height); ... */" />
+            <marker date="1557286962502" expanded="true" signature="5442:5523" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="5655:5723" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="6093:6802" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="6831:7344" ph="计算" />
+            <marker date="1557286962502" expanded="true" signature="6903:7329" ph="{...}" />
+            <marker date="1557286962502" expanded="false" signature="7350:9006" ph="发送文件" />
+            <marker date="1557286962502" expanded="true" signature="7409:8130" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="8004:8105" ph="{...}" />
+            <marker date="1557286962502" expanded="true" signature="8191:8990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Class/ReceiveMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="140" column="1" selection-start-line="140" selection-start-column="1" selection-end-line="140" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Class/WavUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <marker date="1488903822000" expanded="false" signature="6:68" ph="..." />
+            <marker date="1488903822000" expanded="true" signature="70:609" ph="/// WAV utility for recording and audio playback functions in Unity. ... " />
+            <marker date="1488903822000" expanded="true" signature="701:936" ph="/// Load PCM format *.wav audio file (using Unity's Application data path) and convert to AudioClip. ... " />
+            <marker date="1488903822000" expanded="true" signature="991:1470" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="1103:1379" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="1571:3548" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="1577:1698" ph="/* string riff = Encoding.ASCII.GetString (fileBytes, 0, 4); ... */" />
+            <marker date="1488903822000" expanded="true" signature="2250:2367" ph="/* int byteRate = BitConverter.ToInt32 (fileBytes, 28); ... */" />
+            <marker date="1488903822000" expanded="true" signature="2891:3397" ph="{...}" />
+            <marker date="1488903822000" expanded="false" signature="3551:6929" ph="wav file bytes to Unity AudioClip conversion methods" />
+            <marker date="1488903822000" expanded="true" signature="3720:4173" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="4097:4154" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="4283:5038" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="4770:4888" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="5148:6050" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="5737:5900" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="6160:6916" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="6648:6766" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="6988:7062" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="7197:8621" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="7347:7630" ph="/* NB: Only supports 16 bit ... */" />
+            <marker date="1488903822000" expanded="true" signature="8238:8548" ph="{...}" />
+            <marker date="1488903822000" expanded="false" signature="8624:12673" ph="write .wav file functions" />
+            <marker date="1488903822000" expanded="true" signature="8734:9378" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="9488:10757" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="10856:11814" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="11890:12411" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="12045:12149" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="12514:12660" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="12676:12868" ph="/// Calculates the bit depth of an AudioClip ... " />
+            <marker date="1488903822000" expanded="true" signature="12921:13218" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="13272:13301" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="13350:13653" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="13374:13650" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="13702:13973" ph="{...}" />
+            <marker date="1488903822000" expanded="true" signature="13722:13970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Class/MessageType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <marker date="1557189416287" expanded="false" signature="6:74" ph="..." />
+            <marker date="1557189416287" expanded="true" signature="120:241" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="242:313" ph="/// 消息体 ... " />
+            <marker date="1557189416287" expanded="true" signature="360:2042" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="612:683" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="689:906" ph="/// 因为，有些序列化方式要求只能使用无参构造函数，所以，这几个静态函数是用来构造的 ... " />
+            <marker date="1557189416287" expanded="true" signature="981:1083" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="1162:1278" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="1356:1454" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="1532:1646" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="1722:1815" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="1909:2035" ph="{...}" />
+            <marker date="1557189416287" expanded="true" signature="2045:4338" ph="/* [System.Serializable] ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Class/SocketNetWork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1557287091819" expanded="false" signature="6:178" ph="..." />
+            <marker date="1557287091819" expanded="true" signature="213:1126" ph="{...}" />
+            <marker date="1557287091819" expanded="true" signature="380:1123" ph="{...}" />
+            <marker date="1557287091819" expanded="true" signature="398:1033" ph="{...}" />
+            <marker date="1557287091819" expanded="true" signature="421:733" ph="/* tcpServerSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp); ... */" />
+            <marker date="1557287091819" expanded="true" signature="1060:1117" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Class/MessageMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <marker date="1557286704119" expanded="false" signature="6:185" ph="..." />
+            <marker date="1557286704119" expanded="true" signature="187:242" ph="/// 这个类负责发送消息，序列化自定义类，文字转码 ... " />
+            <marker date="1557286704119" expanded="true" signature="273:1554" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="356:405" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="483:547" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="610:873" ph="{...}" />
+            <marker date="1557286704119" expanded="false" signature="879:1316" ph="发送和接受自定义类" />
+            <marker date="1557286704119" expanded="true" signature="969:1045" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="1103:1171" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="1233:1300" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="1322:1552" ph="文字转码" />
+            <marker date="1557286704119" expanded="true" signature="1378:1434" ph="{...}" />
+            <marker date="1557286704119" expanded="true" signature="1479:1537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

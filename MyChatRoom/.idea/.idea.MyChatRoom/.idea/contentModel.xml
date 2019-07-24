@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ReadyGamerOne\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ReadyGamerOne\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MyChatRoom.1763218446.00" t="ExcludeRecursive" />
+    <e p="F:\Projects\unity\ChatRoom\MyChatRoom" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Class" t="Include">
+          <e p="AudioMgr.cs" t="Include" />
+          <e p="GlobalAndConst.cs" t="Include" />
+          <e p="MessageMgr.cs" t="Include" />
+          <e p="MessageType.cs" t="Include" />
+          <e p="ReceiveTcpMessage.cs" t="Include" />
+          <e p="ReceiveUdpMessage.cs" t="Include" />
+          <e p="SocketNetWork.cs" t="Include" />
+          <e p="WavUtility.cs" t="Include" />
+          <e p="Win32.cs" t="Include" />
+        </e>
+        <e p="Game" t="Include">
+          <e p="CEventCenter.cs" t="Include" />
+          <e p="Model" t="Include">
+            <e p="AbstractSpriteObj.cs" t="Include" />
+            <e p="SQLiteMgr.cs" t="Include" />
+          </e>
+          <e p="MonoSingleton.cs" t="Include" />
+          <e p="Others" t="Include">
+            <e p="AnimationWeight.cs" t="Include" />
+          </e>
+          <e p="SafeSingleton.cs" t="Include" />
+          <e p="Script" t="Include">
+            <e p="AudioMgr.cs" t="Include" />
+            <e p="MainLoop.cs" t="Include" />
+            <e p="TriggerInputer.cs" t="Include" />
+            <e p="UIInputer.cs" t="Include" />
+            <e p="UpdateTestPair.cs" t="Include" />
+          </e>
+          <e p="Serialization" t="Include">
+            <e p="BitManager.cs" t="Include" />
+            <e p="JsonManager.cs" t="Include" />
+            <e p="SerializableDictionary.cs" t="Include" />
+            <e p="XmlManager.cs" t="Include" />
+          </e>
+          <e p="Singleton.cs" t="Include" />
+          <e p="View" t="Include">
+            <e p="AbstractUI.cs" t="Include" />
+            <e p="Panels" t="Include">
+              <e p="AbstractPanel.cs" t="Include" />
+              <e p="IStackPanel.cs" t="Include" />
+              <e p="UIManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ChatRoomPanel.cs" t="Include" />
+          <e p="GameMgr.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="MyChatRoom.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UdpServer" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UdpProgram.cs" t="Include" />
+        <e p="UdpServer.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="F:\Projects\unity\ChatRoom\Server" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Server.csproj" t="IncludeRecursive" />
+      <e p="TcpClient.cs" t="Include" />
+      <e p="TcpProgram.cs" t="Include" />
+    </e>
+  </component>
+</project>
